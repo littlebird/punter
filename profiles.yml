@@ -16,6 +16,8 @@ credit:
     - credit
 
 couchdb:
+  security_groups:
+    - couchdb
   fragments:
     - basic
     - ruby
