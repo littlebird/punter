@@ -8,8 +8,16 @@ ruby:
     - basic
     - ruby
 
+
 # Demonstrates the 'credit' ERB fragment
 credit:
   fragments:
     - basic
     - credit
+
+couchdb:
+  fragments:
+    - basic
+    - ruby
+    - couchdb
+
